@@ -11,7 +11,7 @@
 🎓 **Software Engineering Student** @ [Kırklareli University](https://www.klu.edu.tr/)  
 💡 Passionate about **Machine Learning**, **Software Architecture**, and **Full-Stack Development**.  
 🚀 Currently working on software technical debt analyzer & web platform projects.  
-📫 Email: **ismailazo330@gmail.com**  
+📫 Email: **ismailazo260@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/ismailazo](https://www.linkedin.com/in/ismailazo)  
 
 ---
@@ -70,15 +70,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight" height="165" alt="Azo15 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Azo15&theme=tokyonight&no-frame=true&column=6" alt="Azo15 GitHub Trophies" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azo15&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight" height="165" alt="Azo15 GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
 
 ---
