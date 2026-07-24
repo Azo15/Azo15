@@ -75,8 +75,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -86,5 +86,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Wave" />
 </p>
