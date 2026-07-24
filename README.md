@@ -75,8 +75,9 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Azo15's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight" alt="Azo15's Top Languages" />
+  <img src="https://img.shields.io/github/followers/Azo15?label=Followers&style=for-the-badge&color=61afef&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-650%2B-98c379?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Azo15?label=Stars&style=for-the-badge&color=e5c07b&logo=github" />
 </p>
 
 <p align="center">
