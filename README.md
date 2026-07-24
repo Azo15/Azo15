@@ -75,8 +75,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Azo15's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight" alt="Azo15's Top Languages" />
 </p>
 
 <p align="center">
