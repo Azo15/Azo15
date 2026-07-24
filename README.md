@@ -63,19 +63,20 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[ML-Based Software Health Analyzer](https://github.com/Azo15/ML-Based-Software-Health-Technical-Debt-Analyzer)** | `Python`, `Machine Learning` | Software health & technical debt detection tool. |
-| **[Smart Driver Monitoring System](https://github.com/Azo15/Smart-Driver-Monitoring-System)** | `Python`, `OpenCV` | Real-time driver fatigue & safety detection. |
-| **[bikopi Platform](https://github.com/Azo15/bikopiNS)** | `TypeScript`, `HTML/CSS` | Modern web platform frontend & services. |
-| **[Yurt Yönetim Sistemi](https://github.com/Azo15/YurtYonetimSistemi)** | `Java`, `SQL` | Dormitory management system for student tracking. |
+| **[ML-Based-Software-Health-Technical-Debt-Analyzer](https://github.com/Azo15/ML-Based-Software-Health-Technical-Debt-Analyzer)** | `Python`, `Machine Learning` | Machine Learning-powered CLI tool analyzing Git history, code complexity metrics to estimate Technical Debt & Software Health. |
+| **[Smart-Driver-Monitoring-System](https://github.com/Azo15/Smart-Driver-Monitoring-System)** | `Python`, `OpenCV`, `MediaPipe`, `Arduino` | Real-time AI & IoT driver monitoring system using OpenCV, MediaPipe Face Mesh & Arduino for drowsiness, fatigue, phone usage, and distraction detection. |
+| **[Dormitory-Management-System](https://github.com/Azo15/Dormitory-Management-System)** | `Java`, `Swing`, `SQLite`, `MySQL` | Java & Swing-based Dormitory Management System built with 6 software design patterns (Bridge, Factory, Builder, Observer) supporting SQLite & MySQL. |
+| **[STAJ22001](https://github.com/Azo15/STAJ22001)** | `Blade`, `Laravel`, `Tailwind CSS`, `Alpine.js` | Modern & aesthetic Library Management System built with Laravel 11, Tailwind CSS & Alpine.js featuring multi-role management and Glassmorphism UI. |
+| **[ilac-veri-eslestirme](https://github.com/Azo15/ilac-veri-eslestirme)** | `Jupyter Notebook`, `Python` | Veri Madenciliği dersi kapsamında farklı standartlardaki iki ilaç veri setini (TİTCK ve ATC) NLP ve Bulanık Eşleştirme (Fuzzy Matching) algoritmaları kullanarak birleştirme projesi. |
+| **[hastane-ai-platform](https://github.com/Azo15/hastane-ai-platform)** | `HTML`, `Flask`, `LightGBM`, `Anthropic Claude` | Flask + LightGBM + Anthropic Claude ile geliştirilmiş Hastane Kurumsal Yapay Zeka Platformu. Yapay Zeka randevu tahmin modülü ve IT destek chatbot sistemi içerir. |
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Azo15?label=Followers&style=for-the-badge&color=61afef&logo=github" />
-  <img src="https://img.shields.io/badge/Contributions-650%2B-98c379?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Azo15?label=Stars&style=for-the-badge&color=e5c07b&logo=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azo15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azo15&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
